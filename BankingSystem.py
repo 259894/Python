@@ -1,9 +1,7 @@
-# https://www.tybrains.com/
-
-# Hangman game by Momen Shili.
 
 
-customerNames = ['Momen Shili', 'Omar Ibn Abi Rabia', 'Jamil ben m3amr', 'Test Test', 'test2 test2']
+
+customerNames = ['Rushab', 'Thanuja', 'John', 'Tom', 'Jerry']
 customerPins = ['0123', '2575', '7275', '2312', '5049']
 customerBalances = [10000, 20000, 20000, 40000, 10000]
 deposition = 0
